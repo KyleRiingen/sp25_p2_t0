@@ -1,0 +1,3 @@
+{
+  "/api/articles/foxnews/route": "app/api/articles/foxnews/route.js"
+}
